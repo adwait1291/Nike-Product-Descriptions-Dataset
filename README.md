@@ -4,6 +4,7 @@
 This project provides a dataset of Nike products by scraping their descriptions from the official Nike website. Python's Selenium library was utilized to perform the web scraping process. The generated dataset includes 400 data points with three columns - Title, Subtitle, and Product Description. All product descriptions in the dataset are unique. The dataset is available on Kaggle at https://www.kaggle.com/datasets/adwaitkesharwani/nike-product-descriptions.
 
 # Preview
+![DatasetPreview](https://user-images.githubusercontent.com/76807214/219942148-712a5960-ddf6-475f-83fc-4cb930543e1d.jpg)
 
   
 # Usage
